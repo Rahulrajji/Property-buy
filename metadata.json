@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Real Estate Assistant",
+  "description": "An AI-powered real estate application to help you find your next home. Ask our Gemini-powered assistant about market trends, local amenities, or just chat about your dream house.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
